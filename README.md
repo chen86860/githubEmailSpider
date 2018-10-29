@@ -1,3 +1,3 @@
 # GithubEmailSpider
 
-A simple spider to gather the email address from a Github User.
+A simple spider to fetch the email address from a Github user.
